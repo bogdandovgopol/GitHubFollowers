@@ -2,6 +2,7 @@
 An iOS App that displays github user followers, their details, and let's you favorite them.
 
 ## Tech used
+* UI using **Programmatic Auto Layout**
 * Fetching followers and account details from the Github API using **URLSession**.
 * Presenting data in paginated **UICollectionViev, UITableView**, using **DiffableDataSource**.
 * **User Defaults** for storing Favorite profiles.
