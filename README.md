@@ -8,7 +8,6 @@ An iOS App that displays github user followers, their details, and let's you fav
 * **User Defaults** for storing Favorite profiles.
 
 
-
 <p style="float:left">
 <img src="https://github.com/bogdandovgopol/GitHubFollowers/blob/master/1.PNG?raw=true" width="190" />
 <img src="https://github.com/bogdandovgopol/GitHubFollowers/blob/master/2.PNG?raw=true" width="190" />
