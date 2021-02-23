@@ -16,4 +16,3 @@ An iOS App that displays github user followers, their details, and let's you fav
 <img src="https://github.com/bogdandovgopol/GitHubFollowers/blob/master/4.PNG?raw=true" width="190" />
 <img src="https://github.com/bogdandovgopol/GitHubFollowers/blob/master/5.PNG?raw=true" width="190" />
 </p>
-
